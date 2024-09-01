@@ -4,3 +4,5 @@
 - MARICULATION: USMAN PUBLIC SCHOOL 
 - INTERMEDIATE: ADAMJEE GOVT. SCIENCE COLLEGE
 - BACHELORS: FAST-NUCES(IN PROGRESS)
+
+### I am successfully updated from the features branch😊
